@@ -1,0 +1,6 @@
+[submodule "asterum-scheduler-back"]
+	path = asterum-scheduler-back
+	url = git@github.com:sandropark/asterum-scheduler-back.git
+[submodule "asterum-scheduler-front"]
+	path = asterum-scheduler-front
+	url = git@github.com:sandropark/asterum-scheduler-front.git
